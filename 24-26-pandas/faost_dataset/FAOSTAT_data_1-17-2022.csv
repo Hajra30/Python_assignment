@@ -1,0 +1,13 @@
+﻿Domain Code,Domain,Area Code (FAO),Area,Element Code,Element,Months Code,Months,Year Code,Year,Unit,Value,Flag,Flag Description
+"ET","Temperature change","2","Afghanistan","7271","Temperature change","7010","October","2020","2020","?C","-1.042","Fc","Calculated data"
+"ET","Temperature change","2","Afghanistan","7271","Temperature change","7011","November","2020","2020","?C","-0.503","Fc","Calculated data"
+"ET","Temperature change","2","Afghanistan","7271","Temperature change","7012","December","2020","2020","?C","-1.792","Fc","Calculated data"
+"ET","Temperature change","16","Bangladesh","7271","Temperature change","7010","October","2020","2020","?C","2.469","Fc","Calculated data"
+"ET","Temperature change","16","Bangladesh","7271","Temperature change","7011","November","2020","2020","?C","1.688","Fc","Calculated data"
+"ET","Temperature change","16","Bangladesh","7271","Temperature change","7012","December","2020","2020","?C","0.872","Fc","Calculated data"
+"ET","Temperature change","100","India","7271","Temperature change","7010","October","2020","2020","?C","1.274","Fc","Calculated data"
+"ET","Temperature change","100","India","7271","Temperature change","7011","November","2020","2020","?C","0.703","Fc","Calculated data"
+"ET","Temperature change","100","India","7271","Temperature change","7012","December","2020","2020","?C","0.825","Fc","Calculated data"
+"ET","Temperature change","165","Pakistan","7271","Temperature change","7010","October","2020","2020","?C","-0.172","Fc","Calculated data"
+"ET","Temperature change","165","Pakistan","7271","Temperature change","7011","November","2020","2020","?C","-0.419","Fc","Calculated data"
+"ET","Temperature change","165","Pakistan","7271","Temperature change","7012","December","2020","2020","?C","-0.264","Fc","Calculated data"
